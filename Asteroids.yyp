@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "1a73ba12-66f7-48c6-9e66-2b4f2c511a6f",
+            "Value": {
+                "id": "5ebbc2e0-af84-4416-a0b4-b58e96b9e9a6",
+                "resourcePath": "sprites\\sprite_asteroid\\sprite_asteroid.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "1d12e8a0-909f-478f-8617-35b4c3eb2588",
             "Value": {
                 "id": "f6a55bd3-6a16-4dde-b417-a946a7df78bf",
@@ -119,6 +127,14 @@
             }
         },
         {
+            "Key": "621be398-ddc7-402f-b014-3904cbf8faf7",
+            "Value": {
+                "id": "c0b8572e-8738-4f90-b46d-5fe920859c81",
+                "resourcePath": "objects\\object_asteroid_mini\\object_asteroid_mini.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "79ae89e5-1d8f-44ee-bc91-7100aa86088d",
             "Value": {
                 "id": "4d4910f0-b233-48ea-ab7b-98d6f5fecf72",
@@ -132,6 +148,14 @@
                 "id": "0a82491e-6769-4009-8359-cdfa3ede4af9",
                 "resourcePath": "views\\7f1c3c5e-8ac9-4e63-942e-0cca7cfe74d7.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "8e51d2a0-e150-4e4e-9387-51c81a4a6dda",
+            "Value": {
+                "id": "6cb6cf9a-db63-41ed-ae74-7cb99c859b80",
+                "resourcePath": "objects\\object_asteroid\\object_asteroid.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -204,6 +228,14 @@
                 "id": "7f7d80a2-508a-4950-8227-3a3357d5037f",
                 "resourcePath": "views\\ce7374af-97c8-42ab-88ff-13a22333c0c9.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "d1ef71cb-854c-4816-9be7-d4ed1c24aad0",
+            "Value": {
+                "id": "33a3e66f-ddf8-4f5c-811c-b44b80db1e98",
+                "resourcePath": "sprites\\sprite_asteroid_mini\\sprite_asteroid_mini.yy",
+                "resourceType": "GMSprite"
             }
         }
     ],
